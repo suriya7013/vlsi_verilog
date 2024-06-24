@@ -19,6 +19,6 @@ module tb_top;
     a = 1; b = 0; c = 0; #1;
     a = 1; b = 0; c = 1; #1;
     a = 1; b = 1; c = 0; #1;
-    a = 1; b = 1; c = 1;
+    a = 1; b = 1; c = 1; #1;
   end
 endmodule
